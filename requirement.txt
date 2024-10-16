@@ -1,0 +1,5 @@
+# Add this to requirements.txt
+
+pygame==2.1.2         # Pygame for game development
+opencv-python==4.5.5  # OpenCV for face/head tracking
+numpy==1.21.2         # Numerical operations, used by OpenCV
